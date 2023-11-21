@@ -31,13 +31,13 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ black-demon-dr7 }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-           GITHUB_TOKEN: ${{ secrets.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 }}
+           GITHUB_TOKEN: ${{ secrets.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 }}
 
       - name: Show build status
         run: git status
@@ -49,4 +49,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
