@@ -31,7 +31,7 @@ jobs:
         uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ black-demon-dr7 }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -49,4 +49,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          GITHUB_TOKEN: ${{ secrets.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t }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
