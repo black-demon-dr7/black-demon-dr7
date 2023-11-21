@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href="https://youtube.com/@ELQNAS_DAYMON?si=_9glDyUgFdJ1JDsW" target="_blank">
-     <img src="https://img.shields.io/badge/Youtube-FF5722?style=for-the-youtube&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Youtube-FF5722?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
