@@ -22,9 +22,6 @@
   <a href="https://t.me/BLACK_DEMON_VX">
     <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=red" />
   </a>
-  <a href="https://instagram.com/elqnas_daymon?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
   <a href="https://youtube.com/@ELQNAS_DAYMON?si=_9glDyUgFdJ1JDsW" target="_blank">
      <img src="https://img.shields.io/badge/Youtube-FF5722?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
