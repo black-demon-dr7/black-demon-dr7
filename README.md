@@ -19,7 +19,7 @@
  </div>
  
 <div align="center"> 
-  <a href="https://t.me/BLACK_DEMON_VX">
+  <a href="https://t.me/demonx70">
     <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=red" />
   </a>
   <a href="https://youtube.com/@ELQNAS_DAYMON?si=_9glDyUgFdJ1JDsW" target="_blank">
