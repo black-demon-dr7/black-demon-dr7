@@ -68,7 +68,7 @@
 <br/>
 
 <div align="center">
-<a href='https://t.me/BLACK_DEMON_VX' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://i.imgur.com/ul1Aj6J.png' border='0' alt='Demon Chennal' /></a>
+<a href='https://t.me/demonx70' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://i.imgur.com/ul1Aj6J.png' border='0' alt='Demon Chennal' /></a>
 </div>
 
 <br/>
